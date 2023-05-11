@@ -1,0 +1,3 @@
+
+echo. > archivo.txt
+
